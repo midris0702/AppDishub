@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <TextView
+        android:textSize="18sp"
+        android:padding="10dp"
+        android:background="@drawable/shape_spinner"
+        android:layout_weight="1"
+        android:hint="Bulan"
+        android:id="@+id/spBulan"
+        android:singleLine="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <LinearLayout
+        android:layout_marginTop="10dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <EditText
+                android:id="@+id/etKegiatan"
+                android:hint="Target"
+                android:background="@drawable/shape_spinner"
+                android:padding="8dp"
+                android:inputType="number"
+                android:singleLine="true"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+        <View
+            android:layout_width="5dp"
+            android:layout_height="match_parent"/>
+        <EditText
+            android:padding="8dp"
+            android:background="@drawable/shape_spinner"
+            android:layout_weight="1"
+            android:hint="Realisasi"
+            android:inputType="number"
+            android:id="@+id/etDana"
+            android:singleLine="true"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+</LinearLayout>

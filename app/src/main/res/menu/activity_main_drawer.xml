@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_menu_person"
+            android:title="Profile" />
+        <item
+            android:id="@+id/nav_angkutan"
+            android:icon="@drawable/ic_menu_local_shipping"
+            android:title="Bidang Angkutan" />
+        <item
+            android:id="@+id/nav_lalulintas"
+            android:icon="@drawable/ic_menu_traffic"
+            android:title="Bid. Man. Reka. Lalulintas" />
+        <item
+            android:id="@+id/nav_saran"
+            android:icon="@drawable/ic_menu_directions_walk"
+            android:title="Bid.Kes.Tek. Sarana Prasaran" />
+        <item
+            android:id="@+id/nav_pengujian"
+            android:icon="@drawable/ic_menu_book"
+            android:title="UPTD Peng. Kend. Bermotor" />
+        <item
+            android:id="@+id/nav_parkir"
+            android:icon="@drawable/ic_menu_book"
+            android:title="UPTD Parkir" />
+        <item
+            android:id="@+id/nav_pelabuhan"
+            android:icon="@drawable/ic_menu_book"
+            android:title="UPTD Pelab. Sungai Duku" />
+        <item
+            android:id="@+id/nav_pengelola"
+            android:icon="@drawable/ic_menu_book"
+            android:title="UPTD Pengelola Angkutan" />
+        <item
+            android:id="@+id/nav_secretary"
+            android:icon="@drawable/ic_secretary"
+            android:title="Sekretariat" />
+        <item
+            android:id="@+id/nav_hukum"
+            android:icon="@drawable/ic_menu_bookmark"
+            android:title="Dasar Hukum" />
+        <item
+            android:id="@+id/nav_pad"
+            android:icon="@drawable/ic_menu_monetization_on"
+            android:title="PAD" />
+        <item
+            android:id="@+id/nav_laporan"
+            android:icon="@drawable/ic_menu_assignment"
+            android:title="Lap. Pelaksanaan Kegiatan" />
+    </group>
+
+    <item android:title="Lainnya">
+        <menu>
+            <item
+                android:id="@+id/nav_info"
+                android:icon="@drawable/ic_menu_info"
+                android:title="Tentang" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:visibility="gone"
+            android:id="@+id/txtId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <LinearLayout
+            android:gravity="center_vertical"
+            android:background="@color/colorWhite"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <View
+                android:background="@color/colorGreen"
+                android:layout_width="5dp"
+                android:layout_height="match_parent"/>
+            <TextView
+                android:layout_marginLeft="10dp"
+                android:id="@+id/kegiatan"
+                android:layout_weight="1"
+                android:text="Kegiatan 1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            <View
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:background="@color/colorGray"
+                android:layout_width="1dp"
+                android:layout_height="match_parent"/>
+            <TextView
+                android:layout_weight="1"
+                android:id="@+id/tvBulan"
+                android:text="Bulan"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            <View
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:background="@color/colorGray"
+                android:layout_width="1dp"
+                android:layout_height="match_parent"/>
+            <TextView
+                android:layout_weight="1.2"
+                android:id="@+id/tvFisik"
+                android:text="100%"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            <View
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:background="@color/colorGray"
+                android:layout_width="1dp"
+                android:layout_height="match_parent"/>
+            <TextView
+                android:layout_weight="1.2"
+                android:id="@+id/tvKeuangan"
+                android:text="100%"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            <View
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:background="@color/colorGray"
+                android:layout_width="1dp"
+                android:layout_height="match_parent"/>
+            <Button
+                android:layout_margin="5dp"
+                android:id="@+id/btnEdit"
+                android:layout_marginRight="10dp"
+                android:backgroundTint="@color/colorGray"
+                android:background="@drawable/ic_edit"
+                android:layout_width="30dp"
+                android:layout_height="30dp" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,419 @@
+<resources>
+    <string name="app_name">Profil Dishub PKU</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="bulan">
+        <item>Januari</item>
+        <item>Februari</item>
+        <item>Maret</item>
+        <item>April</item>
+        <item>Mei</item>
+        <item>Juni</item>
+        <item>Juli</item>
+        <item>Agustus</item>
+        <item>September</item>
+        <item>Oktober</item>
+        <item>November</item>
+        <item>Desember</item>
+    </string-array>
+    "
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="gambaran">Luas Wilayah\t : 632.26Km \nKecamatan\t\t : 12 \nKeluraha\t\t\t\t : 58 \nJumlah Pddk\t : 1.011.467 Jiwa \n\n<b>Batas Wilayah </b> \nUtara\t\t : - \nSelatan\t : - \nBarat\t\t : - \nTimur\t\t : -</string>
+    <string name="tuposi">Berdasarkan Peraturan Daerah Kota Pekanbaru Nomor 8 Tahun 2008 tentang Pembentukan Susunan Organisasi, Kedudukan dan Tugas Pokok Dinas-dinas dilingkungan Pemerintahan Kota Pekanbaru dimana Dinas Perhubungan Kota Pekanbaru mempunya tugas pokok, yaitu melaksanakan sebagian urusan Pemerintah Daerah Kota dibidang Perhubungan.</string>
+
+    <string name="a.1">Seksi Angkutan Orang</string>
+    <string name="a.2">Seksi Angkutan Barang, Terminal dan Perairan</string>
+    <string name="a.3">Seksi Bimbingan dan Penyuluhan Angkutan</string>
+
+    <string name="b.1">Seksi Manajemen dan KJLL</string>
+    <string name="b.2">Seksi Pek. dan Fas. LLJ dan Perairan</string>
+    <string name="b.3">Seksi Pengawasan LLJ</string>
+
+    <string name="c.1">Seksi Kes. Sarpras Jalan</string>
+    <string name="c.2">Seksi Penerangan Jalan</string>
+    <string name="c.3">Seksi Teknis Jalan dan Perairan</string>
+
+    <string name="d.1">Informasi UPTD PKB Pekanbaru</string>
+    <string name="d.2">Tuposi</string>
+    <string name="d.3">Prosedur Pengurusan Uji Berkala</string>
+    <string name="d.4">Komponen Uji Berkala</string>
+    <string name="d.5">Jln. Kendaraan Wajib Uji dan Pelasi</string>
+    <string name="d.6">Galeri</string>
+
+    <string name="e.1">Gambaran Umum UPTD Parkir</string>
+    <string name="e.2">Tuposi</string>
+    <string name="e.3">Perhitungan Parkir</string>
+    <string name="e.4">Galeri</string>
+
+    <string name="f.1">Gambaran Umum UPTD PSD</string>
+    <string name="f.2">Tuposi</string>
+    <string name="f.3">Fasilitas</string>
+    <string name="f.4">Kriteria Retribusi</string>
+    <string name="f.5">Data Angkatan Pelabuhan</string>
+    <string name="f.6">Rekap Kepadatan Pelabuhan</string>
+    <string name="f.7">Galeri</string>
+
+    <string name="g.1">Tuposi</string>
+    <string name="g.2">Trans Metro Pekanbaru</string>
+    <string name="g.3">Bus Air Senapelan</string>
+
+    <string name="h.1">Dasar Hukum Dishub</string>
+    <string name="h.2">Dasar Hukum Parkir</string>
+    <string name="h.3">Dasar Hukum PAP</string>
+
+    <string name="i.1">Uraian Tugas Sekretariat</string>
+    <string name="i.2">Uraian Tugas Subbag Umum</string>
+    <string name="i.3">Uraian Tugas Subbag Keuangan</string>
+    <string name="i.4">Uraian Tugas Subbag Penyusunan Program</string>
+
+    <string name="pad">pad</string>
+
+    <string name="desk_home">
+        <b>Wali Kota Pekanbaru ke-13</b>
+        \nMulai menjabat: 25 Januari 2012
+        \n
+        \n<b>Informasi pribadi</b>
+        \nLahir\t\t\t\t\t: 2 Mei 1960 Bangkinang, Riau, Indonesia
+        \nKebangsaan\t: Indonesia
+        \nAgama\t\t\t\t: Islam
+        \n
+        \n<b>H. Firdaus S.T., M.T.</b> adalah Wali Kota Pekanbaru. Ia mulai menjabat sejak tanggal 26 Januari 2012. Ia bersama Ayat Cahyadi memenangkan pilkada secara langsung di Kota Pekanbaru pada tanggal 18 Mei 2011. Pada tanggal 24 Juni 2011 Mahkamah Konstitusi memerintahkan pemilihan umum ulang di kota Pekanbaru. Pada tanggal 13 Januari 2011 Mahkamah Konstitusi menetapkan Firdaus dan Ayat Cahyadi sebagai pemenang pemilihan Wali kota dan Wakil Wali kota Pekanbaru.
+        \n
+        \nFirdaus merupakan anak dari pasangan Muhammad Datuk Bagindo Pado dengan Hj. Siti Rufi'a.
+    </string>
+    <string name="profile_1">
+        Luas Wilayah\t\t: 632,26 Km2
+        \nKecamatan\t\t\t: 12
+        \nKelurahan\t\t\t\t: 58
+        \nJlh Pddk\t\t\t\t\t: 1.011.467 Jiwa
+        \n
+        \n<b>BATAS WILAYAH</b>
+        \nSebelah UTARA 		: berbatas dgn Kab. Siak &amp; Kab. Kampar
+        \nSebelah SELATAN	    : berbatas dgn Kab. Kampar &amp; Pelalawan
+        \nSebelah TIMUR	 	    : berbatas dgn. Kab. Siak &amp; Pelalawan
+        \nSebelah BARAT	 	    : berbatas dgn Kab. Kampar
+    </string>
+    <string name="profile_2">
+        Berdasarkan Peraturan Daerah Kota Pekanbaru Nomor 8 Tahun 2008 tentang Pembentukan Susunan Organisasi, Kedudukan dan Tugas Pokok Dinas - dinas dilingkungan Pemerintah Kota Pekanbaru dimana Dinas Perhubungan Kota Pekanbaru mempunyai tugas pokok, yaitu melaksanakan sebagian urusan Pemerintah Daerah Kota di bidang Perhubungan.
+        \n\n<b>Kepala Dinas Perhubungan mempunyai rincian tugas :</b>
+        \n- Melaksanakan kewenangan daerah dalam bidang perhubungan dan tugas pembantuan yang diberikan oleh pemerintah.
+        \n- Memimpin dan mengkoordinasikan seluruh kegiatan aparat dan staf dinas.
+        \n- Menyusun rencana dan program bidang perhubungan.
+        \n- Menyusun kebijakan pelaksanaan perhubungan.
+        \n- Melaksanakan koordinasi, pengendalian dan pengawasan serta evaluasi pelaksanaan tugas bagian sekretariat, bidang angkutan, pengawasan dan pengendalian lalu lintas, keselamatan teknik sarana dan prasarana.
+        \n- Melaksanakan tugas-tugas lain yang diberikan oleh pimpinan sesuai dengan tugas dan fungsinya.
+        \n\n<b>Fungsi Dinas</b>
+        \n- Perumusan kebijakan teknis dibidang perhubungan
+        \n- Penyelenggaraan urusan pemerintahan dan pelayanan umum;
+        \n- Penyusunan rencana kerja, pemantauan dan evaluasi;
+        \n- Pembinaan dan pelaporan;
+        \n- Penyelenggaraan urusan penatausahaan dinas;
+        \n- Pelaksanaan tugas-tugas lain.
+    </string>
+    <string name="profile_3">
+        - Memberikan kesempatan kepada seluruh pegawai yang berada di lingkungan Dinas Perhubungan Kota Pekanbaru untuk memperoleh pelatihan dan pendidikan teknis baik di bidang Perhubungan maupun Kesekretariatan;
+        \n- Melakukan pengajuan rekruitmen tenaga yang memiliki potensi dan kemampuan teknis di bidang Perhubungan;
+        \n- Pengembangan dan peningkatan kualitas pelayanan kepada masyarakat dengan menitipkan beberapa perizinan dan rekomendasi bidang perhubungan pada pelayanan satu atap, yaitu Badan Pelayan Terpadu;
+        \n- Pengembangan sistem transportasi perkotaan yang bersifat massal dan menjadi angkutan pemadu moda transportasi;
+        \n- Peningkatan kualitas pelayanan transportasi melalui manajemen angkutan umum dan manajemen dan rekayasa lalu lintas yang juga meliputi sarana dan prasarananya;
+        \n- Peningkatan peran serta masyarakat, pengusaha kecil, menengah dan koperasi;
+        \n- Peningkatan kesadaran masyarakat dalam mewujudkan tata tertib berlalu lintas dan melaksanakan penyuluhan, pembinaan dan pengawasan kepada penyedia dan pengguna jasa angkutan;
+        \n- Penertiban terhadap kendaraan angkutan penumpang dan barang yang tidak layak jalan, tidak memiliki izin, dan melanggar tata tertib berlalu lintas.
+    </string>
+    <string name="profile_4">
+        - Takwa  Kepada Tuhan Yang Maha Esa
+        \n- Tanggap Terhadap kebutuhan masyarakat akan pelayanan jasa  yang tertib, teratur, tepat waktu, bersih dan nyaman
+        \n- Tangguh menghadapi tantangan
+        \n- Terampil dan berperilaku gesit, ramah, sopan serta lugas
+        \n- Bertanggung jawab terhadap keselamatan dan keamanan jasa perhubungan
+    </string>
+    <string name="profile_5">
+        <b>Visi</b>
+        \n"Terwujudnya Tingkat Kualitas Pelayanan dan Penyediaan Jasa Transportasi yang menyeluruh, handal dan terjangkau"
+        \n
+        \n<b>Misi</b>
+        \n- Meningkatkan dan memberdayakan SDM perhubungan yang berkualitas dan profesional;
+        \n- Memperbaiki, mempertahankan, meningkatkan aksesibilitas dan tingkat kualitas pelayanan perhubungan;
+        \n- Mengusahakan ketersediaan/kecukupan dan kehandalan prasarana, sarana, dan sistem jaringan tranportasi;
+        \n- Meningkatkan koordinasi pelayanan dan pengawasan operasional perhubungan
+    </string>
+    <string name="profile_6">
+        1.  UPTD PARKIR:
+        \n\tMengelola dan menyelenggarakan Potensi PAD Retribusi Parkir di tepi jalan umum dan Pelayananan Perparkiran
+        \n2.  UPTD TERMINAL:
+        \n\tMengelola dan Menyelenggarakan Potensi PAD Retribusi Terminal,  kebersihan dan pelayanan Terminal
+        \n3.  UPTD PKB
+        \n\tMengelola dan Menyelenggarakan Potensi PAD Pelayanan pengujian kendaraan bermotor
+        \n4.  UPTD KEPELABUHANAN
+        \n\tMengelola dan Menyelenggarakan Potensi PAD Pelayanan kepelabuhanan
+        \n5. UPTD PENYELENGGARAAN ANGKUTAN PERKOTAAN (PAP)
+        \n\tMengelola dan menyelenggarakan Bus Besar bantuan Kemenhub RI dan Bus air
+    </string>
+    <string name="profile_8">
+        Dalam mencapai  Visi dan Misi yang telah ditetapkan, maka sejumlah tujuan dan sasaran yang lebih terarah juga perlu ditetapkan. Adapun tujuan dan yang ingin dicapai adalah :
+        \n1. Meningkatkan pengetahuan dan keterampilan SDM Perhubungan melalui kegiatan Pendidikan dan Pelatihan di sektor Perhubungan dan Kesekretariatan;
+        \n2. Melaksanakan Pembangunan Prasarana dan Fasilitas Perhubungan;
+        \n3. Melaksanakan Rehabilitasi/ Pemeliharaan Prasarana dan Fasilitas Perhubungan;
+        \n4. Melaksanakan Peningkatan Pelayanan Angkutan;
+        \n5. Melaksanakan Pembangunan Sarana dan Prasarana Perhubungan;
+        \n6. Tersedianya fasilitas dan perlengkapan jalan yang memadai;
+        \n7. Optimalnya kinerja Pengujian Kendaraan Bermotor;
+        \n8. Terlaksananya kegiatan penataan tower di Kota Pekanbaru
+        \n\nAdapun Sasaran dan yang ingin dicapai adalah :
+        \n1. Aparatur Perhubungan yang profesional;
+        \n2. Terencana dan termonitornya penyelenggaraan pembangunan prasarana dan fasilitas perhubungan;
+        \n3. Terpeliharanya peralatan beserta kantor pengujian, pelabuhan dan terminal serta sarana dan prasarana perhubungan;
+        \n4. Terjadinya peningkatan pelayanan angkutan kepada masyarakat;
+        \n5. Penataan dan pengembangan trayek angkutan umum, penataan dan pengembangan koridor Trans Metro, pembangunan Halte Bus dan Pengadaan Bus, Terminal Barang, Pelabuhan Tenayan, Kantor Pengujian Kendaraan Bermotor, Gedung Parkir dan Penataan Pedestrian Sudirman;
+        \n6. Pengadaan Rambu-rambu Lalu Lintas, marka jalan, dan pagar pengaman jalan;
+        \n7. Pengadaan Alat Pengujian Kendaraan Bermotor dan Mobil Crane;
+        \n8. Tersedianya menara telekomunikasi yang dimanfaatkan secara bersama dengan tatanan yang teratur dalam ruang wilayah kota.
+    </string>
+    <string name="angkutan_1">
+        - Melakukan penyiapan bahan untuk perencanaan trayek dan jaringan lintas serta pelayanan jasa angkutan jalan;
+        \n- Melaksanakan penyusunan Jaringan Trayek dan Penetapan Jumlah Kendaraan untuk Kebutuhan Angkutan serta Jaringan Lintas yang Wilayah Pelayanannya dalam Kota;
+        \n- Melaksanakan proses pemberian Izin Trayek dan Izin Operasi Angkutan Kota, Taksi dan angkutan Perbatasan;
+        \n- Melaksanakan proses pemberian Rekomendasi Operasi Angkutan Sewa, AKDP dan AKAP;
+        \n- Melaksanakan proses pemberian Izin Usaha Angkutan Orang, Barang dan Kendaraan Derek;
+        \n- Melaksanakan perhitungan untuk Penetapan Tarif Penumpang Angkutan dalam Kota;
+        \n- Melaksanakan proses pemberian izin Insidentil angkutan orang dan izin penggunaan jalan di luar kelas jalan yang ditetapkan;
+        \n- Merumuskan dan menyelenggarakan kegiatan serta proses penerbitan SPAU (Sertifikasi Pengemudi Angkutan Umum);
+        \n- Menyiapkan dan menyampaikan laporan kegiatan di bidang tugasnya;
+        \n- Melaksanakan tugas-tugas lain yang diberikan oleh Kepala Bidang.
+    </string>
+    <string name="angkutan_2">
+        - Menyiapkan proses izin Usaha Perusahaan Angkutan Laut bagi Perusahaan yang Berdomisili dan Beroperasi pada Lintas Pelabuhan dalam Kota;
+        \n- Melaksanakan proses Izin Usaha Pelayaran Rakyat bagi Perusahaan yang Berdomisili dan Beroperasi pada Lintas Pelabuhan dalam Kota;
+        \n- Melaksanakan proses Izin Usaha Tally di Pelabuhan;
+        \n- Melaksanakan proses Izin Usaha Bongkar Muat Barang dari dan ke Kapal;
+        \n- Melaksanakan proses Izin Usaha Ekspedisi / Freight Forwarder;
+        \n- Merumuskan dan melaksanakan perhitungan dalam Penetapan Tarif Angkutan Penyeberangan Kelas Ekonomi pada Lintas Penyeberangan dalam Kota yang terletak pada Jaringan Jalan dalam Kota;
+        \n- Merumuskan dan melaksanakan perhitungan dalam Penetapan Tarif Jasa Pelabuhan SDP yang tidak diusahakan yang dikelola Pemerintah Kota;
+        \n- Merumuskan dan melaksanakan serta menerbitkan izin usaha penunjang kegiatan penerbangan;
+        \n- Menyiapkan dan menyampaikan laporan kegiatan di bidang tugasnya;
+        \n- Melaksanakan tugas-tugas lain yang diberikan oleh Kepala Bidang.
+    </string>
+    <string name="angkutan_3">
+        - Melaksanakan Pembinaan Pengusaha dan Pengemudi Angkutan Umum;
+        \n- Melaksanakan Pembinaan dan Pengawasan Sekolah Mengemudi;
+        \n- Merencanakan sosialisasi kebjiakan di bidang perhubungan kepada Masyarakat;
+        \n- Melakukan analisa terhadap Kebijakan di bidang Perhubungan;
+        \n- Memberikan data  dan informasi  kepada  masyarakat;
+        \n- Merumuskan dan melaksanakan penyelenggaraan penelitian dan pengembangan di bidang perhubungan di daerah serta analisa dan evaluasinya;
+        \n- Melaksanakan pengumpulan data sosial ekonomi dan budaya serta demografi untuk kepentingan pembangunan dan pengembangan perhubungan kota;
+        \n- Menyiapkan bahan untuk melaksanakan penyelenggaraan promosi, penyelenggaraan kerjasama bidang perhubungan di daerah.
+        \n- Melakukan bimbingan, penyuluhan, sosialisasi, dan kampanye di Bidang Keselamatan Transportasi; 
+        \n- Menyiapkan dan menyampaikan laporan kegiatan di bidang tugasnya.
+    </string>
+    <string name="lalu_1">
+        - Penyusunan dan Penetapan Kelas Jalan pada Jaringan Jalan dalam Kota;
+        \n- Penyusunan dan Penetapan Jaringan Lintas Angkutan Barang pada Jaringan Jalan dalam Kota;
+        \n- Penentuan Lokasi, Pengadaan, Pemasangan, Pemeliharaan, dan Penghapusan Rambu Lalu Lintas, Marka Jalan, dan Alat Pemberi Isyarat Lalu Lintas, Alat Pengendali dan Pengamanan Pemakai Jalan serta Fasilitas Pendukung dan perlengkapan Jalan dalam Kota
+        \n- Penyelenggaraan Manajemen dan Rekayasa Lalu Lintas di Jalan dalam Kota;
+        \n- Penyelenggaraan Andalalin di Jalan dalam Kota;
+        \n- Perizinan Penggunaan Jalan selain untuk Kepentingan Lalu Lintas di Jalan dalam Kota;
+        \n- Penyusunan dan Penetapan Rencana Umum Jaringan Transportasi Jalan dalam Kota;
+        \n- Merumuskan dan melaksanakan inventarisasi dan evaluasi tingkat pelayanan lalu lintas jalan dalam kota;
+        \n- Menyiapkan dan menyampaikan laporan kegiatan di bidang tugasnya;
+        \n- Melaksanakan tugas-tugas lain yang diberikan oleh Kepala Bidang.
+    </string>
+    <string name="lalu_2">
+        - Penyusunan dan Penetapan Kelas Jalan pada Jaringan Jalan dalam Kota;
+        \n- Penyusunan dan Penetapan Jaringan Lintas Angkutan Barang pada Jaringan Jalan dalam Kota;
+        \n- Penentuan Lokasi, Pengadaan, Pemasangan, Pemeliharaan, dan Penghapusan Rambu Lalu Lintas, Marka Jalan, dan Alat Pemberi Isyarat Lalu Lintas, Alat Pengendali dan Pengamanan Pemakai Jalan serta Fasilitas Pendukung dan perlengkapan Jalan dalam Kota
+        \n- Penyelenggaraan Manajemen dan Rekayasa Lalu Lintas di Jalan dalam Kota;
+        \n- Penyelenggaraan Andalalin di Jalan dalam Kota;
+        \n- Perizinan Penggunaan Jalan selain untuk Kepentingan Lalu Lintas di Jalan dalam Kota;
+        \n- Penyusunan dan Penetapan Rencana Umum Jaringan Transportasi Jalan dalam Kota;
+        \n- Merumuskan dan melaksanakan inventarisasi dan evaluasi tingkat pelayanan lalu lintas jalan dalam kota;
+        \n- Menyiapkan dan menyampaikan laporan kegiatan di bidang tugasnya;
+        \n- Melaksanakan tugas-tugas lain yang diberikan oleh Kepala Bidang.
+    </string>
+    <string name="lalu_3">
+        - Melaksanakan Pemeriksaan Kendaraan di Jalan sesuai Kewenangannya;
+        \n- Pelaksanaan Penyidikan Pelanggaran PERDA di bidang LLAJ, Pemenuhan Persyaratan Teknis dan Laik Jalan, Pelanggaran Ketentuan Pengujian Berkala dan Perizinan Angkutan Umum;
+        \n- Melaksanakan Pengawasan dan Pengendalian Operasional terhadap Penggunaan Jalan selain untuk Kepentingan Lalu Lintas di Jalan dalam Kota;
+        \n- Melakukan pengawalan terhadap kendaraan yang memiliki hak utama penggunaan jalan untuk kelancaran lalu lintas;
+        \n- Merumuskan dan melaksanakan pengawasan pengangkutan bahan dan atau barang berbahaya lintas darat;
+        \n- Melakukan Pengawasan, pengendalian, dan Pengamanan Lalulintas di ruas-ruas, persimpangan jalan, dan pos-pos pengawasan pengendalian dalam kota;
+        \n- Menyiapkan dan menyampaikan laporan kegiatan di bidang tugasnya;
+        \n- Melaksanakan tugas-tugas lain yang diperintahkan oleh Kepala Bidang.
+    </string>
+    <string name="PKB_1">
+        Letak dan Luas UPTD PKB Kota Pekanbaru
+        \nAlamat		: Jl. HR. Subrantas KM 10,5 Kel. Delima  Kec. Tampan Kota Pekanbaru
+        \nLuas Area	: 7.146,80 M2
+        \nLuas Gedung PKB	: 675,60 M2
+        \nLuas Lahan Parkir	: 6.471,20 M2
+    </string>
+    <string name="PKB_2">
+        - Menyiapkan bahan dan peralatan kerja dengan merinci jenis dan jumlah peralatan kerja yang diperlukan, menyediakan bahan dan peralatan kerja tersebut ditempat kerja yang mudah diambil atau mudah digunakan;
+        \n- Melaksanaan penyusunan rencana kerja dengan cara merinci dan menjadwalkan kegiatan yang akan dilaksanakan;
+        \n- Merumuskan dan melaksanakan penyiapan bahan-bahan yang diperlukan oleh Kepala Dinas dalam menyusun kebijakan, program dan prosedur kerja, pencatatan hasil kerja, petunjuk teknis dan laporan kerja;
+        \n- Melaksanakan pengujian kendaraan bermotor;
+        \n- Melaksanakan pengawasan terhadap standar pelayanan minimal sesuai dengan bidang tugasnya menyiapkan bahan untuk pemecahan masalah;
+        \n- Merumuskan dan melaksanakan inventarisasi masalah-masalah yang berhubungan dengan bidang tugasnya serta menyiapkan bahan petunjuk pemecahan masalah;
+        \n- Merumuskan dan melaksanakan peningkatan usaha-usaha kearah yang dapat memantapkan kegiatan dibidang tugasnya;
+        \n- Merumuskan dan melaksanakan pengendalian pengawasan dan pembinaan terhadap semua kegiatan dibidang tugasnya;
+        \n- Merumuskan dan melaksanakan penyusunan laporan dibidang tugasnya dengan cara mempersiapkan bahan yang akan dilaporkan, masalah yang dihadapi dan langkah yang diambil guna pemecahan masalah dan disampaikan secara lisan dan atau tertulis;
+        \n- Melaksanakn teknis operasional bidang pengujian kendaraan bermotor;
+        \n- Melakukan koordinasi dengan Satuan Kerja Perangkat Daerah dan lembaga terkait untuk kelancaran pelaksanaan tugas;
+        \n- Melaksanakan evaluasi pelaksanaan tugas agar dapat diketahui hasil yang dicapai dan kegiatan yang dilaksanakan telah sesuai dengan rencana kerja dengan cara membuat tolak ukur keberhasilan tugas;
+        \n- Melaksanakan tugas-tugas lain yang diberikan oleh pimpinan sesuai tugasnya;
+    </string>
+
+    <string name="parkir_1">
+        Dasar Hukum :	- UU LLAJ No. 22 Th. 2009
+		\n\t- PP. No. 43 Th. 1993 
+		\n\t- Kepmenhub No. KM. 66 Th. 1993
+		\n\t- Kepdirjendat No.  272/HK.105/DRJD/96
+		\n\t- Perda Kota Pekanbaru No. 2 Th. 2009; dan 
+		\n\t- Perda Kota Pekanbaru No. 3 Th. 2009
+        \n\nCara Pemungutan Jasa Parkir yang diterapkan di Kota Pekanbaru :
+        \n\t- Pajak Parkir (Parkir Off Street)
+        \n\t- Retribusi Parkir di Tepi Jalan Umum (Parkir On 	Street)
+    </string>
+    
+    <string name="sungai_1">
+        - Pelabuhan Sungai Duku Pekanbaru adalah Pelabuhan Penumpang Umum yang didukung  oleh bangunan kantor dan fasiltas umum yang dapat digunakan oleh pemakai jasa pelabuhan.
+        \n- Pelabuhan  Sungai Duku adalah milik Pemerintah Kota Pekanbaru dengan  fasilitas – fasilitas yang ada untuk mendukung kegiatan operasional di Pelabuhan Sungai Duku
+    </string>
+
+    <string name="sungai_2">
+        - Melaksanakan penyusunan rencana kerja dengan cara merinci dan menjadwalkan kegiatan yang akan dilaksanakan;
+        \n- Melaksankan evaluasai pelaksanaan tugas agar dapat diketahui hasil yang dicapai dan kegiatan yang dilaksankan telah sesuai dengan rencana kerja dengan cara membuat tolak ukur keberhasilan tugas;
+        \n- Melaksankan pengaturan keberangkatan dan kedatangan kapal;
+        \n- Melaksanakan Operasional pelabuan di pelabuuhan dan kawasan sekitarnya
+        \n- Malaksanakan program kebersihan, keindahan dan ketertiban (K3) di lingkungan Pelabuhan
+        \n- Menjaga keselamatan, keamanan dan kenyamanan penumpang di pelabuhan;
+        \n- Mencatat jumlah kapal dan penumpang yang berangkat maupun datang dan melaporkan secara rutin setiap bulan kepada kepala dinas;
+        \n- Melaksankan pungutan retribusi pas masuk pelabuhan, retribusi boarding pas, retribusi kebersihan , retribusi tambat, retribusi jasa penumpang barang, sewa loket, sewa kios sewa ruang dan sewa lahan;
+        \n- Menyetorkan hasil pungutan retribusi dan sewa kepada bendaharawan  penerima untuk distrokan ke kas daerah;
+        \n- Menyiapkan kebijakan operasional sesuai dengan tugas dan kewenangan di bidang kepelabuhan ;
+        \n- Melakukan koordinasi dengan instansi dan lembaga terkait untuk kelancaran pelaksanaan tugas;
+        \n- Melaksankan tugas-tugas lain yang diberikan oleh pimpinan sesuai dengan tugasnya.
+    </string>
+
+    <string name="sungai_3">
+        <b>FASILITAS UTAMA</b>
+        \n\t- Gedung Kantor dan terminal Pelabuhan Sungai Duku
+        \n\t- Jalur keberangkatan dan kedatangan penumpang
+        \n\t- Areal parkir kendaraan umum
+        \n\t- Ruang tunggu penumpang
+        \n\t- Loket penjualan karcis penumpang
+        \n\n<b>FASILITAS PENUNJANG</b>
+        \n\t- Dermaga Beton 1 unit
+        \n\t- Dermaga Ponton 2 unit
+        \n\t- Toilet dan kamar mandi
+        \n\t- Kantin dan Kios
+        \n\t- Ruang informasi
+        \n\t- Pintu gerbang keluar masuk Pelabuhan
+        \n\t- Peron dan selasar menuju bangunan utama
+    </string>
+    <string name="sungai_4">
+        - Retribusi Jasa Tambat Kapal
+        \n- Retribusi Jasa Dermaga
+        \n- Retibusi Jasa Tanda Masuk Pelabuhan
+        \n- Retribusi Sewa Tanah dan Ruangan
+        \n- Retribusi Jasa Boarding Pass
+        \n- Retribusi Kebersihan
+    </string>
+    <string name="uptd_angkut_1">
+        - Berdasarkan Peraturan Walikota Pekanbaru Nomor 8 Tahun 2009, UPT PAP memiliki uraian tugas sebagai berikut:
+        \n- Melaksanakan penyusunan rencana kerja dengan cara merinci dan menjadwalkan kegiatan yang akan dilaksanakan
+        \n- Mengatur dan mengelola pelayanan angkutan perkotaan / Trans Metro Pekanbaru
+        \n- Melakukan pengaturan, pengendalian dan prasarana dan peralatan penunjang lainnya
+        \n- Melakukan pemeliharaan prasarana dan sarana dan peralatan penunjang lainnya
+        \n- Melaksanakan program kebersihan, keindahan dan ketertiban (K3) di lingkungan angkutan perkotaan / Trans Metro Pekanbaru
+        \n- Melaksanakan koordinasi dan kerjasama dengan instansi atau pihak lain dalam rangka pemanfaatan pelayanan angkutan umum
+        \n- Melaksanakan pengelolaan Sistem Angkutan Umum Massal (SAUM) perkotaan untuk kelancaran mobilisasi masyarakat di Kota Pekanbaru
+        \n- Melaksanakan pungutan hasil operasional pengelolaan pelayanan angkutan dan fasilitas penunjang lainnya
+        \n- Menyetorkan hasil pungutan retribusi dan sewa kepada bendaharawan penerima untuk disetorkan ke kas daerah
+        \n- Menyiapkan kebijakan operasional sesuai dengan tugas dan kewenangan di bidang pengelolaan angkutan perkotaan
+        \n- Melakukan koordinasi dengan instansi dan lembaga terkait untuk kelancaran pelaksanaan tugas
+        \n- Melaksanakan tugas-tugas lain yang diberikan oleh pimpinan sesuai dengan tugasnya
+    </string>
+    <string name="uptd_angkut_2">
+        - Trans Metro Pekanbaru atau biasa disebut sebagai Transmetro atau Busway TMP adalah sebuah sistem transportasi bus rapid transit cepat yang terdapat di kota Pekanbaru. TMP mulai di operasikan pada tanggal 18 Juni 2009 dengan melayani koridor 1 dan 2 oleh Dinas Perhubungan Kominfo Kota Pekanbaru. Pada tanggal 01 Januari 2014 melalui surat Walikota Pekanbaru Nomor :  656/Dishubkominfo/1063 PD. Pembangunan
+        \n- Jumlah armada Trans Metro Pekanbaru terdiri dari 20 unit bus berkapasitas 80 orang dan 50 unit berkapasitas 30 orang yang melayani 7 koridor.
+        \n- 2016 Jumlah armada Trans Metro Pekanbaru bertambah sebanyak 50 bantuan dari Kementrian Perhubungan
+
+        \n\n <b>SEJARAH TRANS METRO PEKANBARU</b>
+
+        \n- Penduduk Kota Pekanbaru saat ini berjumlah lebih kurang 1.000.000 jiwa dan setiap tahunnya bertambah. Saat ini jumlah kendaraan Pribadi di Kota Pekanbaru tidak sebanding dengan jumlah ruas jalan yang ada sehingga menyebabkan kemacetan, pemborosan penggunaan bahan bakar, kebisingan serta tingginya tingkat polusi dan pemandangan yang tidak enak karena lalu lintas yang semrawut.
+        \n- Untuk menyikapi masalah tersebut pemerintah Kota Pekanbaru mengeluarkan kebijakan pelayanan transportasi perkotaan Sarana Angkutan Umum Massal (SAUM) dan diberi nama TRANS METRO PEKANBARU. "Trans Metro Pekanbaru" dilaksanakan berdasarkan surat Keputusan Menteri Perhubungan Nomor KP. 111 tahun 2009 dimana Kota Pekanbaru termasuk Kota Percontohan di Bidang Transportasi. Pada awalnya, Transmetro Pekanbaru hanya melayani 2 Koridor. Namun seiring berjalannya waktu, Transmetro Pekanbaru telah melayani 8 Koridor yang menjangkau seluruh Kota Pekanbaru dan wilayah Aglomerasi terdekat, yakni Kabupaten Kampar.
+        \n- Bus TRANS METRO PEKANBARU menggunakan bahan bakar yang ramah lingkungan sehingga bisa mengurangi tingginya polusi, berkapasitas 33 penumpang duduk dan 32 penumpang berdiri serta beberapa tempat untuk penumpang penyandang cacat yang menggunakan kursi roda dan dilengkapi AC, serta mengutamakan keamanan dan kenyamanan penumpang. Setiap 10 menit sekali bus TRANS METRO PEKANBARU berhenti di halte - halte khusus dan bus ini memiliki jadwal dari pukul 06.00 pagi hingga pukul 22.00, dan tidak harus menunggu penumpang penuh, karena sopirnya digaji bulanan tetap, bukan harus mengejar setoran untuk mendapatkan gaji seperti yang terjadi pada bus-bus
+    </string>
+    <string name="uptd_angkut_3">
+        - Bus air Senapelan hibah dari Kementerian Perhubungan bagi Kota Pekanbaru, pada 2014, dengan daya tampung 50 penumpang, dengan fasilitas ruangan AC dan non AC.
+        \n- Fungsi pertama adalah sebagai perintis yang dimaksudkan sebagai alat transportasi terkhusus bagi masyarakat yang jauh dari perkotaan, atau sukar dijangkau. Seperti untuk Desa Okura dan Melebung.
+        \n- Fungsi kedua dari diluncurkannya Bus Senapelan, adalah sebagai wisata air
+    </string>
+    <string name="secretary_1">
+        1. Mengkoordinasikan, membina, dan merumuskan rencana dan program kerja tahunan bagian sekretariat dan Dinas;
+        \n2. Mengkoordinasikan, membina, dan merumuskan pedoman ddan petunjuk tata laksana administrasi umum/perlengkapan, kepegawaian, penyusunan program dan keuangan;
+        \n3. Mengkoordinasikan, membina dan merumuskan Rencana Anggaran Biaya  dan Perlengkapan Dinas;
+        \n4. Mengkoordinasikan, membina dan merumuskan pelayanan dan pengaturan pelaksanaan rapat dinas, upacara dan keprotokolan;
+        \n5. Mengkoordinasikan, membina dan merumuskan kesekretariatan dinas;
+        \n6. Mengkoordinasikan, membina dan merumuskan pemeliharaan kebersihan, ketertiban dan keamanan kantor, kendaraan dinas, perlengkapan dan gedung kantor;
+        \n7. Mengkoordinasikan, membina dan merumuskan laporan-laporan bagian kesekretariatan;
+        \n8. Menyiapkan dan menyampaikan laporan kegiatan dibidang tugasnya;
+        \n9. Melaksanakan tugas-tugas lain yang diperintahkan oleh kepala dinas.
+    </string>
+    <string name="secretary_2">
+        1. Menyiapkan bahan perumusan dan melaksanakan kegiatan serta menghimpun peraturan perundang – undangan, kebijaksanaan teknis, pedoman dan petunjuk teknis serta bahan – bahan lainnya yang berhubungan dengan bagian umum / perlengkapan dan kepegawaian;
+        \n2. Melaksanakan pendataan pegawai di lingkungan Perhubungan Kota Pekanbaru dan  menyiapkan usulan peningkatan kualitas sumber daya manusia bidang perhubungan di kota;
+        \n3. Menyiapkan bahan untuk merumuskan dan melaksanakan kegiatan pengumpulan dan pengolahan data serta informasi yang berhubungan dengan bagian umum / perlengkapan dan kepegawaian;
+        \n4. Melaksanakan kegiatan penyiapan bahan penyusunan kebijaksanaan, pedoman dan petunjuk teknis dibagian umum / perlengkapan dan kepegawaian;
+        \n5. Melaksanakan kegiatan inventarisasi permasalahan – permasalahan yang berhubungan dengan bagian umum / perlengkapan dan kepegawaian serta menyiapkan bahan petunjuk pemecahan masalah;
+        \n6. Melaksanakan kegiatan koordinasi dengan unit kerja / instansi terkait sesuai dengan bidang tugasnya dalam rangka kelancaran pelaksanaan tugas;
+        \n7. Melaksanakan kegiatan pelayanan administrasi, kearsipan serta dokumentasi dan hubungan masyarakat;
+        \n8. Melaksanakan kegiatan pelayanan keperluan ruang pimpinan, tamu pimpinan serta urusan keprotokolan;
+        \n9. Melaksanakan kegiatan urusan dalam rumah tangga, upacara dan rapat – rapat dinas serta akomodasi dan administrasi perjalanan dinas;
+        \n10. Merumuskan dan melaksanakan kegiatan penyusunan kebutuhan perbekalan dan materil bagi unit kerja dilingkungan Dinas serta inventarisasi dan perlengkapan;
+        \n11. Merumuskan dan melaksanakan kegiatan kebersihan, ketertiban, dan kenyamanan ruangan dan halaman serta pengamanan dilingkungan Dinas;
+        \n12. Melaksanakan kegiatan pengelolaan bahan dan data dalam rangka perencanaan pegawai dan penyusunan formasi pegawai;
+        \n13. Melaksanakan kegiatan penyusunan rencana pegawai yang akan mengikuti pendidikan dan latihan, ujian dinas, kenaikan pangkat, kenaikan gaji berkala, menyiapkan bahan – bahan kelengkapan usulan mutasi, data mutasi kepegawaian dalam Kartu Induk;
+        \n14. Melaksanakan kegiatan penyusunan bahan – bahan pembinaan, penyuluhan dan sosialisasi ketentuan tentang kedudukan Pegawai Negeri Sipil;
+        \n15. Merumuskan dan melaksanakan serta menetapkan kegiatan pengelolaan data kepegawaian serta memelihara DP3 pegawai;
+        \n16. Merumuskan dan melaksanakan kegiatan penyusunan kebijaksanaan, pedoman dan petunjuk teknis di bidang pembinaan, peningkatan kinerja, disiplin dan kesejahteraan pegawai;
+        \n17. Menyiapkan dan menyampaikan laporan kegiatan di bidang tugasnya;
+        \n18. Melaksanakan tugas-tugas lain yang diperintahkan oleh Kesekretariatan.
+    </string>
+    <string name="secretary_3">
+        1. Melakasanakan kegiatan penghimpunan peraturan perundang-undangan, kebijaksanaan teknis, pedoman dan petunjuk teknis serta bahan-bahan lainnya yang berhubungan dengan bagian keuangan;
+        \n2. Melaksanakan kegiatan pengumpulan dan pengolahan data serta informasi yang berhubungan dengan bagian keuangan;
+        \n3. melaksanakan kegiatan penyiapan dan penyusunan kebijaksanaan, pedoman dan petunjuk teknis  dibagian keuangan;
+        \n4. Melaksanakan kegiatan inventarisasi permasalahan-permasalahan yang berhubungan dengan bagian keuangan serta menyiapkan bahan petunjuk pemecahan masalah;
+        \n5. Melaksanakan kegiatan koordinasi dengan unit kerja/instansi terkait sesuai dengan bidang tugasnya dalam rangka kelancaran pelaksanaan tugas;
+        \n6. melaksanakan kegiatan verifikasi terhadap pelaksanaan anggara, pelaksanaan penerimaan dan pengeluaran serta pertanggung jawaban keuangan;
+        \n7. Merumuskan dan melaksanakan kegiatan tata pembukuan serta sistematis kronologis mengenai anggaran belanja dan pendapatan satuan kerja;
+        \n8. Merumuskan dan melaksnakan kegiatan pengurusan keuangan untuk belanja pegawai, pembayaran gaji, upah dan tunjangan lain pegawai di lingkungan dinas;
+        \n9. Menyiapkan dan menyampaikan laporan kegiatan dibidang tugasnya;
+        \n10. Melaksanakan tugas-tugas lain yang diperintahkan oleh kesekretariatan.
+    </string>
+    <string name="secretary_4">
+        1. Melaksanakan penyiapan bahan – bahan dalam rangka pelaksanaan kebijaksanaan, penyusunan pedoman dan petunjuk teknis di bidang perhubungan;
+        \n2. Melaksanakan antisipasi permintaan jasa perhubungan di daerah dan penyiapan bahan untuk penyusunan rencana pembangunan daerah di bidang perhubungan dalam jangka pendek, menengah dan jangka panjang;
+        \n3. Melaksanakan penyiapan bahan koordinasi pelaksanaan analisis mengenai dampak lingkungan Bidang Perhubungan;
+        \n4. Mengkoordinir penyusunan program rehabilitasi, renovasi dan pembangunan yang dijabarkan dalam RKA;
+        \n5. Menyiapkan bahan dan melaksanakan penyusunan Rencana Strategis Pembangunan Pehubungan Kota;
+        \n6. Merumuskan dan melaksanakan penyiapan bahan untuk perumusan rencana perawatan dan rehabilitasi fasilitas perhubungan;
+        \n7. Merumuskan dan melaksanakan penyesuaian petunjuk operasional proyek berdasarkan perubahan biaya, volume kegiatan dalam RKA atau dokumen lain yang disamakan;
+        \n8. Merumuskan dan melaksanakan penyelenggaraan penelitian dan pengembangan di bidang perhubungan serta analisa dan evaluasinya;
+        \n9. Melaksanakan pengumpulan data dan informasi untuk kepentingan pembangunan dan pengembangan di bidang perhubungan;
+        \n10. Melaksanakan penyusunan Rencana Kinerja Tahunan, Laporan Tahunan dan Laporan Akuntabilitas Kinerja Dinas berkoordinasi dengan unit-unit terkait;
+        \n11. Menyiapkan bahan untuk melaksanakan penyelenggaraan perjanjian atau persetujuan atas nama daerah, penyelenggaraan promosi dan penyelenggaraan kerjasama bidang perhubungan;
+        \n12. Melaksanakan kegiatan pengelolaan anggaran belanja yang disusun dalam DPA;
+        \n13. Menyiapkan dan menyampaikan laporan kegiatan di bidang tugasnya;
+        \n14. Melaksanakan tugas-tugas lain yang diperintahkan oleh Kesekretariatan.
+    </string>
+</resources>
