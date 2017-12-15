@@ -123,6 +123,22 @@ public class GambaranActivity extends AppCompatActivity {
             case "4" :
                 switch (menu){
                     case "1" :
+                        getSupportActionBar().setTitle("SEKSI KES. SARPRAS JALAN");
+                        txtDeskripsi.setText(R.string.sarpras_1);
+                        break;
+                    case "2" :
+                        getSupportActionBar().setTitle("SEKSI PENERANGAN JALAN");
+                        txtDeskripsi.setText(R.string.sarpras_2);
+                        break;
+                    case "3" :
+                        getSupportActionBar().setTitle("SEKSI TEKNIS JALAN DAN PERAIRAN");
+                        txtDeskripsi.setText(R.string.sarpras_3);
+                        break;
+                }
+                break;
+            case "7" :
+                switch (menu){
+                    case "1" :
                         getSupportActionBar().setTitle("GAMBARAN UMUM UPTD PSD");
                         txtDeskripsi.setText(R.string.sungai_1);
                         break;
@@ -152,7 +168,7 @@ public class GambaranActivity extends AppCompatActivity {
                         break;
                 }
                 break;
-            case "5" :
+            case "8" :
                 switch (menu){
                     case "1" :
                         getSupportActionBar().setTitle("TUPOSI");
@@ -168,7 +184,7 @@ public class GambaranActivity extends AppCompatActivity {
                         break;
                 }
                 break;
-            case "6" :
+            case "9" :
                 switch (menu){
                     case "1" :
                         getSupportActionBar().setTitle("URAIAN TUGAS SEKRETARIAT");

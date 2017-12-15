@@ -15,9 +15,10 @@ import net.netne.afahzis.appdishub.R;
 
 /**
  * A simple {@link Fragment} subclass.
+ * Reshape by Iwan on 15/12/2017
  */
 public class SaranFragment extends Fragment implements View.OnClickListener {
-    LinearLayout sarpras, penerangan, teknis, pad;
+    LinearLayout sarpras, penerangan, teknis;
 
 
     public SaranFragment() {
@@ -33,12 +34,10 @@ public class SaranFragment extends Fragment implements View.OnClickListener {
         sarpras = view.findViewById(R.id.ll_c1);
         penerangan= view.findViewById(R.id.ll_c2);
         teknis = view.findViewById(R.id.ll_c3);
-        pad = view.findViewById(R.id.ll_pad);
 
         sarpras.setOnClickListener(this);
         penerangan.setOnClickListener(this);
         teknis.setOnClickListener(this);
-        pad.setOnClickListener(this);
 
         return view;
     }
@@ -46,26 +45,27 @@ public class SaranFragment extends Fragment implements View.OnClickListener {
     @Override
     public void onClick(View v) {
         String id = "";
-        switch (v.getId()){
-            case R.id.ll_c1 : id = "3.1"; break;
-            case R.id.ll_c2: id = "3.2" ; break;
-            case R.id.ll_c3: id = "3.3" ; break;
+        String page="4";
+        switch (v.getId()) {
+            case R.id.ll_c1:
+                id = "1";
+                break;
+            case R.id.ll_c2:
+                id = "2";
+                break;
+            case R.id.ll_c3:
+                id = "3";
+                break;
         }
         switch (v.getId()){
             case R.id.ll_c1:
             case R.id.ll_c2:
             case R.id.ll_c3:
                 Intent i = new Intent(getContext(), GambaranActivity.class);
+                i.putExtra("page", page);
                 i.putExtra("menu",id);
                 startActivity(i);
                 break;
-            case R.id.ll_pad :
-                i = new Intent(getContext(), LoginActivity.class);
-                i.putExtra("level","3");
-                startActivity(i);
-                break;
-
-
         }
 
     }

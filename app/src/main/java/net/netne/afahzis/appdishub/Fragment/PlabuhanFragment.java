@@ -15,6 +15,7 @@ import net.netne.afahzis.appdishub.R;
 
 /**
  * A simple {@link Fragment} subclass.
+ * Reshape by Iwan on 15/12/2017
  */
 public class PlabuhanFragment extends Fragment implements View.OnClickListener{
     LinearLayout PSD, tuposi, fasilitas, kriteria,data, rekap, galeri, pad;
@@ -54,7 +55,7 @@ public class PlabuhanFragment extends Fragment implements View.OnClickListener{
     @Override
     public void onClick(View v) {
         String id = "";
-        String page= "4";
+        String page= "7";
         switch (v.getId()) {
             case R.id.ll_f1:
                 id = "1";

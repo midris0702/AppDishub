@@ -15,6 +15,7 @@ import net.netne.afahzis.appdishub.R;
 
 /**
  * A simple {@link Fragment} subclass.
+ * Reshape By Iwan on 15/12/2017
  */
 public class PengelolaFragment extends Fragment implements View.OnClickListener {
 
@@ -47,7 +48,7 @@ public class PengelolaFragment extends Fragment implements View.OnClickListener 
     public void onClick(View v) {
 
         String id = "";
-        String page= "5";
+        String page= "8";
         switch (v.getId()) {
             case R.id.ll_g1:
                 id = "1";

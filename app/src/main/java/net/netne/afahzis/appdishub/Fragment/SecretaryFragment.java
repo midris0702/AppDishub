@@ -14,6 +14,7 @@ import net.netne.afahzis.appdishub.R;
 
 /**
  * A simple {@link Fragment} subclass.
+ * Reshape by Iwan on 15/12/2017
  */
 public class SecretaryFragment extends Fragment implements View.OnClickListener {
 
@@ -45,7 +46,7 @@ public class SecretaryFragment extends Fragment implements View.OnClickListener 
     @Override
     public void onClick(View v) {
         String id = "";
-        String page="6";
+        String page="9";
         switch (v.getId()) {
             case R.id.ll_i1:
                 id = "1";
