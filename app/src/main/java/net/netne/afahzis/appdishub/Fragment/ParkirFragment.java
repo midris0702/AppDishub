@@ -47,11 +47,12 @@ public class ParkirFragment extends Fragment implements View.OnClickListener{
     @Override
     public void onClick(View v) {
         String id = "";
+        String page="6";
         switch (v.getId()){
-            case R.id.ll_e1 : id = "5.1"; break;
-            case R.id.ll_e2: id = "5.2" ; break;
-            case R.id.ll_e3: id = "5.3" ; break;
-            case R.id.ll_e4: id = "5.4" ; break;
+            case R.id.ll_e1 : id = "1"; break;
+            case R.id.ll_e2: id = "2" ; break;
+            case R.id.ll_e3: id = "3" ; break;
+            case R.id.ll_e4: id = "4" ; break;
 
         }
         switch (v.getId()){
@@ -60,6 +61,7 @@ public class ParkirFragment extends Fragment implements View.OnClickListener{
             case R.id.ll_e3:
             case R.id.ll_e4:
                 Intent i = new Intent(getContext(), GambaranActivity.class);
+                i.putExtra("page", page);
                 i.putExtra("menu",id);
                 startActivity(i);
                 break;

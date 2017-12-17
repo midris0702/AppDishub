@@ -69,7 +69,7 @@ public class LalulintasFragment extends Fragment implements View.OnClickListener
                 break;
             case R.id.ll_pad:
                 i = new Intent(getContext(), LoginActivity.class);
-                i.putExtra("level","1");
+                i.putExtra("level","2");
                 startActivity(i);
                 break;
         }

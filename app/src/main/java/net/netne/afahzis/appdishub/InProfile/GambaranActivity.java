@@ -136,6 +136,54 @@ public class GambaranActivity extends AppCompatActivity {
                         break;
                 }
                 break;
+            case "5" :
+                switch (menu){
+                    case "1" :
+                        getSupportActionBar().setTitle("INFORMASI UPTD PKB PEKANBARU");
+                        txtDeskripsi.setText(R.string.PKB_1);
+                        break;
+                    case "2" :
+                        getSupportActionBar().setTitle("TUPOSI");
+                        txtDeskripsi.setText(R.string.PKB_2);
+                        break;
+                    case "3" :
+                        getSupportActionBar().setTitle("PROSEDUR PENGURUSAN UJI BERKALA");
+                        //txtDeskripsi.setText(R.string.sarpras_3);
+                        break;
+                    case "4" :
+                        getSupportActionBar().setTitle("KOMPONEN UJI BERKALA");
+                        //txtDeskripsi.setText(R.string.sarpras_3);
+                        break;
+                    case "5" :
+                        getSupportActionBar().setTitle("JLN. KENDARAAN WAJIB UJI DAN PELASI");
+                        //txtDeskripsi.setText(R.string.sarpras_3);
+                        break;
+                    case "6" :
+                        getSupportActionBar().setTitle("GALERI");
+                        //txtDeskripsi.setText(R.string.sarpras_3);
+                        break;
+                }
+                break;
+            case "6" :
+                switch (menu){
+                    case "1" :
+                        getSupportActionBar().setTitle("GAMBARAN UMUM UPTD PARKIR");
+                        txtDeskripsi.setText(R.string.parkir_1);
+                        break;
+                    case "2" :
+                        getSupportActionBar().setTitle("TUPOSI");
+                        //txtDeskripsi.setText(R.string.sarpras_2);
+                        break;
+                    case "3" :
+                        getSupportActionBar().setTitle("PERHITUNGAN PARKIR");
+                        //txtDeskripsi.setText(R.string.sarpras_3);
+                        break;
+                    case "4" :
+                        getSupportActionBar().setTitle("GALERI");
+                        //txtDeskripsi.setText(R.string.sarpras_3);
+                        break;
+                }
+                break;
             case "7" :
                 switch (menu){
                     case "1" :

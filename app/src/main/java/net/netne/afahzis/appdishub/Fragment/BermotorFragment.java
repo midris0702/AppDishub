@@ -30,7 +30,7 @@ public class BermotorFragment extends Fragment implements View.OnClickListener {
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
         View view = inflater.inflate(R.layout.fragment_bermotor, container, false);
-                uptd = view.findViewById(R.id.ll_d1);
+        uptd = view.findViewById(R.id.ll_d1);
         tuposi= view.findViewById(R.id.ll_d2);
         prosedur = view.findViewById(R.id.ll_d3);
         komponen = view.findViewById(R.id.ll_d4);
@@ -51,13 +51,14 @@ public class BermotorFragment extends Fragment implements View.OnClickListener {
     @Override
     public void onClick(View v) {
         String id = "";
+        String page="5";
         switch (v.getId()){
-            case R.id.ll_d1 : id = "4.1"; break;
-            case R.id.ll_d2: id = "4.2" ; break;
-            case R.id.ll_d3: id = "4.3" ; break;
-            case R.id.ll_d4: id = "4.4" ; break;
-            case R.id.ll_d5: id = "4.5" ; break;
-            case R.id.ll_d6: id = "4.6" ; break;
+            case R.id.ll_d1 : id = "1"; break;
+            case R.id.ll_d2: id = "2" ; break;
+            case R.id.ll_d3: id = "3" ; break;
+            case R.id.ll_d4: id = "4" ; break;
+            case R.id.ll_d5: id = "5" ; break;
+            case R.id.ll_d6: id = "6" ; break;
         }
         switch (v.getId()){
             case R.id.ll_d1:
@@ -67,6 +68,7 @@ public class BermotorFragment extends Fragment implements View.OnClickListener {
             case R.id.ll_d5:
             case R.id.ll_d6:
                 Intent i = new Intent(getContext(), GambaranActivity.class);
+                i.putExtra("page", page);
                 i.putExtra("menu",id);
                 startActivity(i);
                 break;
