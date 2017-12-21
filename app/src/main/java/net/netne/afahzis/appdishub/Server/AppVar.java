@@ -5,7 +5,7 @@ package net.netne.afahzis.appdishub.Server;
  */
 
 public class AppVar {
-    public static final String URL_SERVER = "http://dishub-pekanbaru.com/ProfilDishub/server.php";
+    public static final String URL_SERVER = "http://profildishub.dawoodtravel.co.id/server.php";
 
     //Key API
     public static final String PREF_NAME = "fe2110444d54d0d8ecf500591ab11a06-sever";
