@@ -14,8 +14,10 @@ android {
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            renderscriptDebuggable false
         }
     }
+    buildToolsVersion '26.0.2'
 }
 
 dependencies {
